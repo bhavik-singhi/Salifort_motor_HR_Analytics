@@ -79,17 +79,12 @@ This project uses a dataset called **HR_capstone_dataset.csv** from [Kaggle](htt
 
 ## Data Integrity:
 
-### Reliability and Originality:
-There is no information how the data is collected or preprocessed. Since this dataset has been provided by Coursera in this capstone project we can assume its reliability and originality.
-
 ### Comprehensiveness:
 The data contains information that may help us find the answer to the key question **What’s likely to make the employee leave the company?**. But there are many more reasons for an employee to leave a company. For example, personal reasons (relocating for a spouce, family or health issues), work-life balance, incompatility between employer and employee, lack of opportunity, financial reasons etc. 
 
 ### Citation:
 There is no external citation for this dataset. You can visit [kaggle](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv) for basic informations.
 
-### Current:
-The dataset was created 2 years ago. Clearly it is outdated.
 
 # P(A)CE - ANALYSIS -  EDA, CHECKING MODEL ASSUMPTIONS & SELECT MODEL
 
