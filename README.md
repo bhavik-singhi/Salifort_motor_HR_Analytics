@@ -156,6 +156,9 @@ For spellchecking and fixing column names I've used Google sheet.
 ![project](https://github.com/Arpita-deb/Salifort_motors_HR_analytics/assets/139372731/4b588a20-c55a-4a08-8a69-2624dbab2c4a)
 
 9. In the histogram of Satisfaction Level, we saw some employees who've left the company giving higher scores of satisfaction. When the employees leave the company, the satisfaction level is very low, except when they have 7 projects. So the employees who've 7 projects were satisfied with the company but nonetheless left the company because of some other reasons.
+![EDA - Pt9](https://github.com/user-attachments/assets/5ad9a3bf-c0dd-4f64-a454-7d831d51db40)
+
+
     
 10. The employees who left the company had more average monthly work hours than the employees who stayed in the company. By checking the average_monthly_hour, we can find 96 was the minimum monthly working hour, and 310 was the maximum monthly working hour. 149 and 156 are the most frequent monthly working hours.
 
