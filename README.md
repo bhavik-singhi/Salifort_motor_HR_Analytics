@@ -299,38 +299,3 @@ In this project we've -
 1. Our dataset is imbalanced (~83%, i.e., 83% of total employees stayed at the company and only 17% left the company) i.e. it has much less data for the employees who left than the employees who stayed. It also impacts our evaluation results and confusion matrix. Class Imbalance can be a huge disadvantage for building advanced machine learning models.
 2. The data hasn't been cross-validated before implementing the models. Before testing the models on test data, they should be vigorously tested on training and validation set to ensure accurate and trustworthy performance of the models.
 3. We've used only 5 matrices for evaluating the performances of the models. There are many more hyperparameters and  matrices that will help us tune and evaluate a better performing model.  
-
-# List of References:
-Phase 1 - Planning
-* [What is Employee Retention?](https://resources.workable.com/hr-terms/what-is-employee-retention)
-* [41 Employee Retention Ideas](https://thrivemap.io/employee-retention-ideas/)
-* [Employee Retention metrics](https://www.netsuite.com/portal/resource/articles/human-resources/employee-retention-metrics.shtml)
-* [How do you measure employee retention rate and why is it important?](https://www.linkedin.com/advice/3/how-do-you-measure-employee-retention-rate?utm_source=share&utm_medium=member_android&utm_campaign=share_via)
-
-Phase 2 - Analysis
-* [11 essential code blocks exploratory data analysis](https://www.kdnuggets.com/2021/03/11-essential-code-blocks-exploratory-data-analysis.html)
-* [10 things to do when conductiong your exploratory data analysis](https://medium.com/data-folks-indonesia/10-things-to-do-when-conducting-your-exploratory-data-analysis-eda-7e3b2dfbf812)
-* [Seaborn - A complete data visualization guide](https://www.kaggle.com/code/berkayalan/seaborn-a-complete-data-visualization-guide)
-* [Matplotlib - A complete data visualization guide](https://www.kaggle.com/code/berkayalan/matplotlib-a-complete-data-visualization-guide)
-* [Seaborn Heatmap](http://seaborn.pydata.org/generated/seaborn.heatmap.html)
-* [Seaborn Boxplot](https://seaborn.pydata.org/generated/seaborn.boxplot.html)
-
-Phase 3 - Construct
-1. Logistic Regression
-   * [Confusion Matrix](https://youtu.be/Kdsp6soqA7o?si=5fiS9byN5i13ODRx)
-   * [Logistic Regression Explained](https://youtu.be/yIYKR4sgzI8?si=IEurObJZiTn75BWV)
-   * [What Is Logistic Regression? Equation, Assumptions, Types, and Best Practices](https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-logistic-regression/amp/)
-   * [Assumptions of Logistic Regression](https://www.statology.org/assumptions-of-logistic-regression/)
-   * [Reference guide for interpreting the logistic regression model](https://docs.google.com/document/d/1Pi3JxADgy0-JGO_mcRvBPWPavyS6kR8jEQtVIemHkt4/edit?usp=sharing)
-   * [Reference guide for common Logistic Regression metrics in Python](https://docs.google.com/document/d/1HZoQyvdeGq0rJiMSos3bMC2hDt6vBgs41hQYEk8RSeI/edit?usp=sharing)
-2. Decision Tree
-   * [Decision Learning Model Learning](https://www.coursera.org/articles/decision-tree-machine-learning)
-   * [Machine Learning decision tree classification algorithm](https://www.javatpoint.com/machine-learning-decision-tree-classification-algorithm)
-3. Random Forest Classifier
-   * [Machine Learning Random Forest classification algorithm](https://www.javatpoint.com/machine-learning-random-forest-algorithm)
-   * [StatQuest: Random Forests Part 1 - Building, Using and Evaluating](https://youtu.be/J4Wdy0Wc_xQ?si=S0u2sWWOTNjOcjRC)
-   * [StatQuest: Bootstrapping Main Ideas!!!](https://youtu.be/Xz0x-8-cgaQ?si=pqVVwhfUYOQ8-jQ6)
-   * [Ensembles - Kaggle Notebook](https://www.kaggle.com/code/kashnitsky/topic-5-ensembles-part-1-bagging/notebook)
-3. XGBoost
-   * [XGBoost Parameters](https://xgboost.readthedocs.io/en/latest/parameter.html)
-  
